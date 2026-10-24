@@ -11,7 +11,7 @@ The model couples a Stackelberg-type bi-level decentralised stochastic programme
 - four water-saving technologies (efficient irrigation, dry cooling, wind and solar power, industrial water recycling) and alternative water (desalination, reuse);
 - a 2030 baseline calibrated to the EU Reference Scenario 2020.
 
-Repository: https://github.com/Joery1/sgbdsp-eu27 (a Zenodo archive with a DOI will be added for the first release)
+Repository: https://github.com/Joery1/sgbdsp-eu27 · Results archive: https://github.com/Joery1/sgbdsp-eu27/releases/tag/v1.0.0
 
 ## Layout
 
@@ -112,7 +112,7 @@ Main switches (defaults in the header of `model_eu.py`; the defaults there are t
 | WEI+ by sub-basin and quarter 2002–2014, outlets, sub-basin and country outlines | EEA ArcGIS service `WaterExploitationIndex`, retrieved 21 October 2026 | EEA (CC BY 4.0) |
 | WEI+ country and sub-unit scale 2000–2023 | EEA SDI, doi:10.2909/3c13b52b-36e5-44bc-a07f-8389d43dfd3b and doi:10.2909/b16bd284-f2ec-4164-90b7-674c1de399ba, retrieved 23 October 2026 | EEA (CC BY 4.0) |
 
-The scenario results are archived separately with the release (`sgbdsp-eu27-results-<version>.zip`, CC BY 4.0).
+All scenario results, summary tables and figures are attached to release v1.0.0 as `sgbdsp-eu27-results-1.0.0.zip` (CC BY 4.0), so tables and figures can be checked without rerunning the model.
 
 ## Licence
 
