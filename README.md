@@ -120,4 +120,4 @@ Code: MIT licence (see `LICENSE`). Shipped data keep the licences of their sourc
 
 ## Contact
 
-Lei Zha (lei.zha@mailbox.unideb.hu), University of Debrecen; corresponding author of the article: Siyuan Chen (2007110029@gxufe.edu.cn), Guangxi University of Finance and Economics. Please report problems through the repository's issue tracker.
+Lei Zha (lei.zha@mailbox.unideb.hu), University of Debrecen; corresponding author of the article: Hantang Chen (chen.hantang@econ.unideb.hu), University of Debrecen. Please report problems through the repository's issue tracker.
