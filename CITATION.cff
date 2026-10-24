@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the article and the archived release."
+title: "SGBDSP-EU27: a basin-resolved bi-level input–output model for EU water, energy, food and ecosystem planning"
+version: 1.0.0
+date-released: 2026-10-24
+license: MIT
+authors:
+  - family-names: Zha
+    given-names: Lei
+    affiliation: "University of Debrecen"
+  - family-names: Chen
+    given-names: Hantang
+    affiliation: "University of Debrecen"
+  - family-names: Chen
+    given-names: Siyuan
+    affiliation: "Guangxi University of Finance and Economics"
+    orcid: "https://orcid.org/0009-0001-2165-4869"
+repository-code: "https://github.com/Joery1/sgbdsp-eu27"

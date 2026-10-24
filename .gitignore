@@ -1,0 +1,6 @@
+__pycache__/
+.DS_Store
+external/IOT_2017_ixi/
+eu27/cache/
+eu27/results/
+eu27/figures_2030/
